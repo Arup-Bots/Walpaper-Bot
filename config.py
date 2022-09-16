@@ -1,0 +1,7 @@
+import os
+
+
+API_ID = os.getenv('API_ID','16507294')
+API_HASH = os.getenv('API_HASH','b696628fbcd23c8f6bc70ddb82484694')
+BOT_TOKEN = os.getenv('BOT_TOKEN','5548376594:AAG-rDfHaX6hKcld-4N_GoCk5gf7lqUBWeM')
+UNSPLASH_ACCESS_KEY = os.getenv('UNSPLASH_ACCESS_KEY','I5_fAdoO64VXfyDpewBK8OiwCoa858OfMD7JrtDeGzA')
